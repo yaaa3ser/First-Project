@@ -1,4 +1,4 @@
-# First-Project
+# Guess_The_Film
 It is about simple game called "Guess The Film" implemented in java.
 
 The rules are simple, the computer randomly picks a movie title, and shows you how many letters it's made up of. Your goal is to try to figure out the movie by guessing one letter at a time.
